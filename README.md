@@ -15,7 +15,6 @@ Feel free to use, modify, and contribute to this script to suit your specific ne
 ## Usage example
 
 ```
-csharp-code
 public class VariableChangeEventExample : MonoBehaviour
 {
     [SerializeField]
