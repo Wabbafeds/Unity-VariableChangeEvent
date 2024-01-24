@@ -50,4 +50,3 @@ public class VariableChangeEvent<T>
     public class ValueEvent : UnityEvent { }
 }
 
-
